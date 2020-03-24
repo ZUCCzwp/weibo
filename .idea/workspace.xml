@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ead3f824-eb59-4802-88dd-d3d934a0d9b3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/views/statuses/_status.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/weibo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/weibo.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/UsersController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/UsersController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/users/show.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/users/show.blade.php" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -116,7 +119,14 @@
   </component>
   <component name="ProjectId" id="1UN24aMmCWUgKFJddnLm0yvIpYI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
@@ -142,18 +152,6 @@
       <recent name="$PROJECT_DIR$/resources/views" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <TestRunner scope="XML" />
@@ -175,7 +173,12 @@
       <workItem from="1575428875727" duration="2733000" />
       <workItem from="1575510566701" duration="7672000" />
       <workItem from="1575880990204" duration="1147000" />
-      <workItem from="1576496901142" duration="31000" />
+      <workItem from="1576496901142" duration="1476000" />
+      <workItem from="1576545494780" duration="131000" />
+      <workItem from="1584108813769" duration="20000" />
+      <workItem from="1584108844559" duration="3168000" />
+      <workItem from="1584321697150" duration="496000" />
+      <workItem from="1585061787875" duration="2943000" />
     </task>
     <servers />
   </component>
@@ -194,5 +197,15 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="620" y="351" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585062569541">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="620" y="351" key="#com.intellij.fileTypes.FileTypeChooser/-1920.23.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1585062569541" />
+    <state x="557" y="384" key="com.intellij.ide.util.TipDialog" timestamp="1584323358840">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="557" y="384" key="com.intellij.ide.util.TipDialog/-1920.-40.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1584323358840" />
   </component>
 </project>
