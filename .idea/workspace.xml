@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ead3f824-eb59-4802-88dd-d3d934a0d9b3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/views/statuses/_status.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/weibo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/weibo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/shared/_status_form.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/UsersController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/UsersController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/users/show.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/users/show.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/Status.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Status.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/static_pages/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/static_pages/home.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -178,7 +177,8 @@
       <workItem from="1584108813769" duration="20000" />
       <workItem from="1584108844559" duration="3168000" />
       <workItem from="1584321697150" duration="496000" />
-      <workItem from="1585061787875" duration="2943000" />
+      <workItem from="1585061787875" duration="4622000" />
+      <workItem from="1585099326392" duration="3397000" />
     </task>
     <servers />
   </component>
@@ -203,9 +203,13 @@
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state x="620" y="351" key="#com.intellij.fileTypes.FileTypeChooser/-1920.23.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1585062569541" />
-    <state x="557" y="384" key="com.intellij.ide.util.TipDialog" timestamp="1584323358840">
+    <state x="557" y="384" width="680" height="736" key="com.intellij.ide.util.TipDialog" timestamp="1585100836240">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state x="557" y="384" key="com.intellij.ide.util.TipDialog/-1920.-40.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1584323358840" />
+    <state x="557" y="384" width="680" height="736" key="com.intellij.ide.util.TipDialog/-1920.-40.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1585100836240" />
+    <state x="743" y="292" width="703" height="518" key="find.popup" timestamp="1585066523255">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="743" y="292" width="703" height="518" key="find.popup/-1920.23.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1585066523255" />
   </component>
 </project>
